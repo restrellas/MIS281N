@@ -1,4 +1,4 @@
-lion
+lion contributorMinuk
 tiger
 leopard
 turtle
